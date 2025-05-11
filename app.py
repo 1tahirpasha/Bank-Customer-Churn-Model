@@ -59,6 +59,12 @@ if st.button("🚀 Predict"):
     st.success(result)
     st.info(f"🔎 Confidence: {proba*100:.2f}% chance of churn")
 
+# Prepare download data
+data = f"Prediction: {result_text}\nConfidence: {confidence:.2f}% chance of churn"
+
+# Add download button
+st.download_button("📄 Download Result", data, file_name="prediction_result.txt")
+
 # Feature Importance
 with st.expander("📊 Show Feature Importance"):
     importances = model.feature_importances_
