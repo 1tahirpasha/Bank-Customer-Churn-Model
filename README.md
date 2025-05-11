@@ -23,7 +23,7 @@ This Streamlit-based app predicts whether a bank customer is likely to churn usi
 ---
 
 ## 📷 App Preview
-![image](https://github.com/user-attachments/assets/0a3f64b8-2a0f-4371-b901-1ff45b54cf03)
+![image](https://github.com/1tahirpasha/Bank-Customer-Churn-Model/blob/main/app_preview.png?raw=true)
 
 ---
 
