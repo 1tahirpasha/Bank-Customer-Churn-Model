@@ -8,7 +8,7 @@ This Streamlit-based app predicts whether a bank customer is likely to churn usi
 
 ---
 
-## 🧠 Features
+## ✨ Features
 
 - Predicts customer churn based on:
   - Credit Score
