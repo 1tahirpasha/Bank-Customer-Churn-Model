@@ -1,10 +1,19 @@
 # 🏦 Bank Customer Churn Prediction App
 
-[![Render](https://github.com/user-attachments/assets/b7acdc15-5a4c-48bd-9220-4a4a1b97be12)](https://bank-customer-churn-model.onrender.com)
+<a href="https://bank-customer-churn-model-by-1tahirpasha.streamlit.app/">
+    <img src="https://img.shields.io/badge/Streamlit-Cloud-green" width="300" />
+</a>
+
+<a href="https://bank-customer-churn-model.onrender.com">
+    <img src="https://img.shields.io/badge/Render-Deployed-lightgrey" width="300" />
+</a>
 
 This Streamlit-based app predicts whether a bank customer is likely to churn using a machine learning model trained on customer demographics, account activity, and product usage patterns.
 
-🔗 **Live Demo**: [Click to Open the App](https://bank-customer-churn-model.onrender.com)
+## 🔗 Links :  
+
+- 🌐 [Streamlit Cloud (Fast Load)](https://bank-customer-churn-model-by-1tahirpasha.streamlit.app)
+- 💤 [Render (May Sleep)](https://bank-customer-churn-model.onrender.com)
 
 ---
 
@@ -23,7 +32,7 @@ This Streamlit-based app predicts whether a bank customer is likely to churn usi
 ---
 
 ## 📷 App Preview
-![image](https://github.com/1tahirpasha/Bank-Customer-Churn-Model/blob/main/app_preview.png?raw=true)
+<img src="https://github.com/1tahirpasha/Bank-Customer-Churn-Model/blob/main/app_preview.png?raw=true" width="700"/>
 
 ---
 
